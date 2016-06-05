@@ -1,0 +1,14 @@
+layout_spectrum: 0.8148868589196354
+typography_spectrum: 0.49305395083501935
+color:
+  brandStrength: 0.7713112737983465
+  lightness: 0.6975369912106544
+  saturation: 0.5883869815152138
+  rhythmicContrast: 0.6635772408917546
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: sabatical
